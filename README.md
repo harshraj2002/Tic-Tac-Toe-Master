@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Maste
+# Tic-Tac-Toe Master
 
 **Tic-Tac-Toe Master** is a web-based interactive game built with **HTML, CSS, and JavaScript**. The application allows users to play Tic-Tac-Toe against an AI opponent, providing a fun and engaging experience while sharpening problem-solving and strategic thinking skills.
 
